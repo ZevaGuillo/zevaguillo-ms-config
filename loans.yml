@@ -1,0 +1,8 @@
+build:
+  version: "1.0"
+
+loans:
+  message: "Welcome to zevaguillo loans related local APIs "
+  contactDetails:
+    name: "Amaal Grega - Developer"
+    email: "amaal@zevaguillo.com"

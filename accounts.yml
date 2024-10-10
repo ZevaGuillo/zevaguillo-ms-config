@@ -1,0 +1,8 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "welcome"
+  contactDetails:
+    name: "Guillermo"
+    email: "guiller.zeva16@gmail.com"

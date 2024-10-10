@@ -1,0 +1,9 @@
+
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to zevaguillos cards related QA APIs "
+  contactDetails:
+    name: "Cherryl Pankaj - QA Lead"
+    email: "cherryl@zevaguillo.com"
