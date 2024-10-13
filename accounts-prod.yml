@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to zevaguillo accounts related prod APIs UPDATE rabbitMQ - webhook"
+  message: "Welcome to zevaguillo accounts related prod APIs rabbitMQ - webhook"
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
     email: "aishwarya@zevaguillo.com"
