@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 loans:
-  message: "Welcome to zevaguillo loans related QA APIs rabbitMQ"
+  message: "Welcome to zevaguillo loans related QA APIs rabbitMQ webhook"
   contactDetails:
     name: "Cyrano Marita - QA Lead"
     email: "cyrano@zevaguillo.com"
