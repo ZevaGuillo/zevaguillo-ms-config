@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "welcome"
+  message: "welcome update docker"
   contactDetails:
     name: "Guillermo"
     email: "guiller.zeva16@gmail.com"
